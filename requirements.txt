@@ -1,0 +1,8 @@
+Flask==2.1.0
+cloudinary
+joblib
+keras
+numpy
+Pillow
+tensorflow
+urllib3
